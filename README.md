@@ -63,13 +63,13 @@ Assuming the build was succesful, one can now "install" the library to the main 
 
 ## Getting started
 
-There are two notebooks [iris](../blob/master/Iris.ipynb) and the more in-depth
-[adult](../blob/master/adult_xdg.ipynb). These two notebooks descibe most of the tabular
+There are two notebooks [iris](../master/Iris.ipynb) and the more in-depth
+[adult](../master/adult_xdg.ipynb). These two notebooks descibe most of the tabular
 API for Kiwi.
 
 ## API Docs
 
-Currently API notes are maintained in the file [lib.rs](../blob/master/src/lib.rs).
+Currently API notes are maintained in the file [lib.rs](../master/src/lib.rs).
 
 The author is optimistic about the pyo3/sphinx ecosystem providing a better solution
 in the future.
